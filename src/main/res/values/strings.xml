@@ -1,0 +1,22 @@
+<resources>
+    <string name="facebook_application_id">1101512933237982</string>
+
+    <string name="app_name">LocationBasedReminder</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="add_reminder">Reminder</string>
+    <string name="details">Details</string>
+
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="repeat">Repeat</string>
+    <string name="repeat_off">Off</string>
+    <string name="repeat_no">Repetition period (in days) </string>
+    <string name="repeat_type">Type of Repetitions</string>
+
+</resources>
